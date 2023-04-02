@@ -1,0 +1,1 @@
+Simple Handler Authorization using the Go-Fiber Web Framework.
